@@ -1,0 +1,5 @@
+entorno: desarrollo
+base_datos:
+  host: localhost
+  puerto: 5432
+    usuario: admin  # <- Este espacio extra romperá la sintaxis del YAML
